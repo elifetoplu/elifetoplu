@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elifetoplu
-- 👀 I’m interested in Java, Selenium, API Testing as an SDET
+- 👀 I’m interested in Java, Selenium, API Testing and Postman as an SDET
 - 🌱 I’m currently learning JS, TS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
